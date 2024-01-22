@@ -5,8 +5,8 @@
 > For more info see: https://www.sfml-dev.org/download/sfml/2.6.1/
 
 > [!WARNING]
-> This implementation is far from perfect. Hope you enjoy!
+> This implementation is far from perfect. I hope you enjoy it!
 
 # To build and run this program
 
-> Type 'build' on you terminal and navigate to the bin folder and run the program by typing 'run' on your terminal.
+> Type 'build' on your terminal, navigate to the bin folder and run the program by typing 'run' on your terminal.
